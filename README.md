@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mobile app developing with flutter
+- 🔭 I’m currently working on mobile app development with flutter
 - 💬 Ask me about Flutter
 - 📫 How to reach me: amit.butani980@gmail.com
 - 🏫 Education: Final year of B.Tech in information technology at Uka Tarsadiya University
